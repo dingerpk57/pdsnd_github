@@ -5,7 +5,7 @@ March 15th 2020
 Exploration of bikeshare data to enhance python skills
 
 ### Description
-Describe what your project is about and what it does
+In this project, I made use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 
 ### Files used
 Include the files used
