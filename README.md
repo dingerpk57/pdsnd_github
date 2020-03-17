@@ -15,5 +15,29 @@ bikeshare_inputs.py
 bikeshare_stats.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Google searches
+
+        python pandas nan
+
+        python eval with parameters
+
+        python eval function with parameters code
+
+        python pandas print list in cell
+
+        python pandas print column labels
+
+        python pandas month names
+
+Searches like the above, led me to the following sites
+
+        https://blog.softhints.com/pandas-count-percentage-value-column/
+                I used what I found here in my code
+
+        https://github.com/Mckinsey666/bullet
+                I used what I found here to manage the inputs
+
+                Note that you will have to pip this library
+
+                One more thing, bullet requires you to run this in linux, macos, or in a windows app which provides a vt100-like window (WLS for example) 
 
