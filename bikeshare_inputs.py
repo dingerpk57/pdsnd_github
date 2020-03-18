@@ -1,5 +1,7 @@
 import sys
 
+# Catch error if the bullet library has not been loaded
+#
 try:
     from bullet import Bullet, YesNo, VerticalPrompt, SlidePrompt
     from bullet import colors
