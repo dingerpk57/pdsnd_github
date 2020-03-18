@@ -37,3 +37,5 @@ PD_OPTIONS = ('display.width', 132,
 # Code to clear the screen when the screen is a vt100 terminal
 def clear_screen():
   print(chr(27) + "[2J")
+
+STATION_FIELDS = [ 'Start Station', 'End Station', 'Trips' ]
