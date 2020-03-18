@@ -3,6 +3,8 @@ import sys
 import re
 from datetime import datetime
 
+# The following tests if the pandas and numpy libraries have been loaded
+#
 try:
     import pandas as pd
 except ImportError as error:
