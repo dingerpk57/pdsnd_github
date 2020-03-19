@@ -180,7 +180,7 @@ def station_stats(df, city, month, day ):
             #
             results = pd.DataFrame( stats, index = ['Mode: ', 'Count: ', 'Range: '] )
             #
-            for field_name in 'Start Station', 'End Station', 'Trips':
+            for field_name in b_c.STATION_FIELDS:
                 #
                 # get mode, count, range of the three fields
                 #
@@ -223,7 +223,7 @@ def station_stats(df, city, month, day ):
             #
             results = pd.DataFrame( stats, index = ['Mode: ', 'Count: ', 'Range: '] )
             #
-            for field_name in 'Start Station', 'End Station', 'Trips':
+            for field_name in b_c.STATION_FIELDS:
                 #
                 # get mode, count, range of the three fields
                 #
